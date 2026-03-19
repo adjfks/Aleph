@@ -1,3 +1,8 @@
+---
+date created: Wednesday, March 18th 2026, 10:54:43 pm
+date modified: Thursday, March 19th 2026, 11:14:48 pm
+---
+
 这是一个全新的尝试。
 
 Aleph — 这是这个仓库的名字，它是博尔赫斯短篇小说中一个点，能同时看见宇宙所有事物。基于Obsidian提供的能力以及[[卢曼笔记法]]的思想，知识库不再是单一树状结构，而是变成可以自下向上生长的图谱。
