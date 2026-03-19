@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cad13cb91e190e00",
+        "id": "ac0552bc85b1b7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3dee029177b87924",
+            "id": "9e3ff8736bcd3f51",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "03 资源/AI大模型体验.md",
-                "bFile": "03 资源/AI大模型体验.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: AI大模型体验  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -193,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dee029177b87924",
+  "active": "212ee2f9a57f660c",
   "lastOpenFiles": [
     "03 资源/卢曼笔记法.md",
     "03 资源/AI大模型体验.md",
