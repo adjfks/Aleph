@@ -1,8 +1,11 @@
 ---
 date created: Friday, March 20th 2026, 1:00:58 am
-date modified: Friday, March 20th 2026, 1:04:47 am
+date modified: Saturday, March 21st 2026, 12:36:14 am
 ---
 
 **稻草人谬误**（Strawman Fallacy），又称“稻草人论证”，是一种常见的逻辑谬误和辩论技巧。
 
 简单来说，它的核心在于：**你不去反驳对方真正的观点，而是故意歪曲、夸大或简化对方的观点，制造一个虚假的、更容易攻击的“假想敌”（就像一个用稻草扎成的人），然后通过攻击这个“稻草人”来宣称自己战胜了对方。**
+
+
+[[钢铁侠辩论（Steelmaning）]]
