@@ -11,14 +11,14 @@
             "id": "3dee029177b87924",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "01 项目/AI智能PRD系统.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "AI智能PRD系统"
             }
           }
         ]
@@ -195,32 +195,37 @@
   },
   "active": "3dee029177b87924",
   "lastOpenFiles": [
-    "03 资源/PARA.md",
-    "03 资源/好用的skills.md",
-    "03 资源/钢铁侠辩论（Steelmaning）.md",
-    "03 资源/卢曼笔记法.md",
+    "02 领域/技能/编程/AI/RAG.md",
+    "01 项目/AI智能PRD系统.md",
+    "02 领域/技能/编程/AI",
+    "03 资源/文档切片策略.md",
+    "02 领域/技能/编程",
+    "未命名",
+    "02 领域/技能",
     "03 资源/飞轮效应.md",
-    "03 资源/收集家谬误.md",
-    "03 资源/AI大模型体验.md",
+    "03 资源/2-sigma效应.md",
     "03 资源/CLAUDE.md作用.md",
-    "03 资源/Git Worktree.md",
     "03 资源/Harness Engineer.md",
+    "03 资源/好用的skills.md",
+    "README.md",
+    "02 领域",
     "01 项目/2分钟平板支撑 30天挑战.md",
     "03 资源/稻草人谬误（Strawmanning）.md",
+    "03 资源/PARA.md",
+    "03 资源/钢铁侠辩论（Steelmaning）.md",
+    "03 资源/卢曼笔记法.md",
+    "03 资源/收集家谬误.md",
+    "03 资源/AI大模型体验.md",
+    "03 资源/Git Worktree.md",
     "20 复盘/2026-03-20复盘.md",
     "nul",
-    "README.md",
     "00 收集箱/收集箱方案.md",
-    "01 项目/未命名.md",
     "20 复盘",
     "未命名.canvas",
     "10 卡片盒",
     "欢迎.md",
     "04 归档",
     "03 资源",
-    "02 领域",
-    "01 项目",
-    "00 收集箱",
     "2026-03-18.md",
     "创建链接.md"
   ]
