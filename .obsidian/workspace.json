@@ -11,14 +11,14 @@
             "id": "3dee029177b87924",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "03 资源/好用的skills.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "好用的skills"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -195,16 +195,16 @@
   },
   "active": "3dee029177b87924",
   "lastOpenFiles": [
+    "03 资源/PARA.md",
+    "03 资源/好用的skills.md",
     "03 资源/钢铁侠辩论（Steelmaning）.md",
     "03 资源/卢曼笔记法.md",
     "03 资源/飞轮效应.md",
-    "03 资源/好用的skills.md",
     "03 资源/收集家谬误.md",
     "03 资源/AI大模型体验.md",
     "03 资源/CLAUDE.md作用.md",
     "03 资源/Git Worktree.md",
     "03 资源/Harness Engineer.md",
-    "03 资源/PARA.md",
     "01 项目/2分钟平板支撑 30天挑战.md",
     "03 资源/稻草人谬误（Strawmanning）.md",
     "20 复盘/2026-03-20复盘.md",
