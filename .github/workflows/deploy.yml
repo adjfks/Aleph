@@ -28,6 +28,9 @@ jobs:
           ref: main
           path: content # 步骤2：将 main 分支的所有笔记直接拉取到 Quartz 的 content 目录下
 
+      - name: Copy README to index
+        run: cp content/README.md content/index.md
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
