@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1583c31b641a627",
+        "id": "7ef607a7c4842e84",
         "type": "tabs",
         "children": [
           {
-            "id": "98297ccefcf2ffff",
+            "id": "993f2fc4082101fa",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98297ccefcf2ffff",
+  "active": "993f2fc4082101fa",
   "lastOpenFiles": [
     "03 资源/第一性原理.md",
     "03 资源/文档切片策略.md",
