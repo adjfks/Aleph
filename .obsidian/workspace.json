@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cad13cb91e190e00",
+        "id": "b1583c31b641a627",
         "type": "tabs",
         "children": [
           {
-            "id": "3dee029177b87924",
+            "id": "98297ccefcf2ffff",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "01 项目/2分钟平板支撑 30天挑战.md",
-                "bFile": "01 项目/2分钟平板支撑 30天挑战.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2分钟平板支撑 30天挑战  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -193,39 +193,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dee029177b87924",
+  "active": "98297ccefcf2ffff",
   "lastOpenFiles": [
-    "01 项目/2分钟平板支撑 30天挑战.md",
-    "01 项目/AI智能PRD系统.md",
-    "02 领域/技能/编程/AI/RAG.md",
-    "02 领域/技能/编程/AI",
+    "03 资源/第一性原理.md",
     "03 资源/文档切片策略.md",
-    "02 领域/技能/编程",
-    "未命名",
-    "02 领域/技能",
-    "03 资源/飞轮效应.md",
-    "03 资源/2-sigma效应.md",
-    "03 资源/CLAUDE.md作用.md",
-    "03 资源/Harness Engineer.md",
-    "03 资源/好用的skills.md",
-    "README.md",
-    "02 领域",
-    "03 资源/稻草人谬误（Strawmanning）.md",
-    "03 资源/PARA.md",
-    "03 资源/钢铁侠辩论（Steelmaning）.md",
-    "03 资源/卢曼笔记法.md",
-    "03 资源/收集家谬误.md",
-    "03 资源/AI大模型体验.md",
-    "03 资源/Git Worktree.md",
+    "02 领域/技能/编程/AI/RAG.md",
     "20 复盘/2026-03-20复盘.md",
-    "nul",
-    "00 收集箱/收集箱方案.md",
     "20 复盘",
+    "03 资源/好用的skills.md",
+    "03 资源/2-sigma效应.md",
+    "02 领域/技能/编程/AI",
+    "02 领域/技能/编程",
+    "02 领域/技能",
+    "02 领域",
+    "01 项目/AI智能PRD系统.md",
+    "03 资源/飞轮效应.md",
+    "03 资源/钢铁侠辩论（Steelmaning）.md",
+    "03 资源/稻草人谬误（Strawmanning）.md",
+    "03 资源/收集家谬误.md",
+    "03 资源/Harness Engineer.md",
+    "03 资源/Git Worktree.md",
+    "03 资源/CLAUDE.md作用.md",
+    "01 项目/2分钟平板支撑 30天挑战.md",
+    "01 项目",
+    "03 资源/卢曼笔记法.md",
+    "03 资源/AI大模型体验.md",
+    "03 资源/PARA.md",
+    "README.md",
     "未命名.canvas",
     "10 卡片盒",
+    "00 收集箱/收集箱方案.md",
     "欢迎.md",
     "04 归档",
     "03 资源",
+    "00 收集箱",
     "2026-03-18.md",
     "创建链接.md"
   ]
