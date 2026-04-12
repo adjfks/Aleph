@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 资源/ralph_wiggum.md",
+                "file": "03 资源/REPL 与 LLM Agent Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ralph_wiggum"
+              "title": "REPL 与 LLM Agent Loop"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "0f9fb8c6e4c8afbc",
   "lastOpenFiles": [
-    "01 项目/健身.md",
+    "02 领域/技能/编程/AI/RAG.md",
+    "03 资源/REPL 与 LLM Agent Loop.md",
     "03 资源/ralph_wiggum.md",
+    "01 项目/健身.md",
     "01 项目/2分钟平板支撑 30天挑战.md",
     "03 资源/Ralph Loop.md",
     "03 资源/2-sigma效应.md",
@@ -209,7 +211,6 @@
     "02 领域/身体",
     "未命名",
     "03 资源/第一性原理.md",
-    "02 领域/技能/编程/AI/RAG.md",
     "02 领域/技能/编程/AI",
     "03 资源/文档切片策略.md",
     "02 领域/技能/编程",
@@ -230,7 +231,6 @@
     "00 收集箱/收集箱方案.md",
     "20 复盘",
     "未命名.canvas",
-    "10 卡片盒",
-    "欢迎.md"
+    "10 卡片盒"
   ]
 }
