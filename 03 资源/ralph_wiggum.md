@@ -1,6 +1,6 @@
 ---
 date created: Sunday, April 12th 2026, 11:38:24 pm
-date modified: Sunday, April 12th 2026, 11:38:51 pm
+date modified: Monday, April 13th 2026, 2:00:26 pm
 ---
 
 # 🧠 Ralph Wiggum 插件深度学习指南
@@ -64,6 +64,13 @@ graph LR
 | **操作者技能** | 成功取决于写好 prompt，而不仅仅是模型能力 |
 | **迭代 > 完美** | 不追求一次做对，让循环来打磨结果 |
 
+### 安装
+
+```
+/plugin marketplace add anthropics/claude-code
+/plugin install ralph-wiggum@claude-code-plugins
+/ralph-wiggum:help
+```
 ---
 
 ## 第 2 课 — 架构：文件组织与组件关系

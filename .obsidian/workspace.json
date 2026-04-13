@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6215c51d459ad730",
+        "id": "72707211640ede21",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9fb8c6e4c8afbc",
+            "id": "2f9d360f7dba28a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "03 资源/ralph_wiggum.md",
-                "mode": "source",
-                "source": false
+                "aFile": "03 资源/ralph_wiggum.md",
+                "bFile": "03 资源/ralph_wiggum.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ralph_wiggum"
+              "icon": "diff",
+              "title": "Diff: ralph_wiggum  (Working Tree)"
             }
           }
         ]
@@ -193,17 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f9fb8c6e4c8afbc",
+  "active": "2f9d360f7dba28a9",
   "lastOpenFiles": [
-    "03 资源/REPL 与 LLM Agent Loop.md",
-    "02 领域/技能/编程/AI/RAG.md",
     "03 资源/ralph_wiggum.md",
+    "03 资源/收集家谬误.md",
+    "03 资源/Ralph Loop.md",
+    "03 资源/REPL 与 LLM Agent Loop.md",
     "01 项目/健身.md",
     "01 项目/2分钟平板支撑 30天挑战.md",
-    "03 资源/Ralph Loop.md",
-    "03 资源/2-sigma效应.md",
-    "03 资源/好用的skills.md",
-    "03 资源/Harness Engineer.md",
     "01 项目/AI智能PRD系统.md",
     "02 领域/认知/初见.md",
     "02 领域/身体/减脂餐.md",
@@ -211,19 +208,22 @@
     "02 领域/身体",
     "未命名",
     "03 资源/第一性原理.md",
+    "02 领域/技能/编程/AI/RAG.md",
     "02 领域/技能/编程/AI",
     "03 资源/文档切片策略.md",
     "02 领域/技能/编程",
     "02 领域/技能",
     "03 资源/飞轮效应.md",
+    "03 资源/2-sigma效应.md",
     "03 资源/CLAUDE.md作用.md",
+    "03 资源/Harness Engineer.md",
+    "03 资源/好用的skills.md",
     "README.md",
     "02 领域",
     "03 资源/稻草人谬误（Strawmanning）.md",
     "03 资源/PARA.md",
     "03 资源/钢铁侠辩论（Steelmaning）.md",
     "03 资源/卢曼笔记法.md",
-    "03 资源/收集家谬误.md",
     "03 资源/AI大模型体验.md",
     "03 资源/Git Worktree.md",
     "20 复盘/2026-03-20复盘.md",
